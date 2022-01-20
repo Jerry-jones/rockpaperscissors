@@ -1,4 +1,10 @@
 
+//Write a function called getRandomComputerChoice 
+//that does not accept any parameters
+//and returns computerChoice
+function getRandomComputerChoice() {
+  
+}
 // let randomNumber = Math.random(1,2,3);
 let userChoice;
 // rock = 1
